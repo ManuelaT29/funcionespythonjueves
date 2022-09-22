@@ -4,5 +4,5 @@ def saludar(nombre):
     print(f'Hola: {nombre}')
 
 #UTILIZAR O LLAMAR UNA FUNCION 
-nombre:"Manuela"
+nombre="Manuela"
 saludar(nombre)
